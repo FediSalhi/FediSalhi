@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedisalhi" alt="fedisalhi" /></a> </p>
 
-- 📝 I regularly write articles on [fedisalhi.com](fedisalhi.com)
+- 📝 I regularly write articles on [https://fedisalhi.com](fedisalhi.com)
 
 - 💬 Ask me about **C/C++, Python, Embedded Programming, Linux**
 
