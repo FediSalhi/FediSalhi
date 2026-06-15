@@ -1,24 +1,70 @@
-<h1 align="center">Fedi Salhi</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi, I'm Fedi Salhi 👋</h1>
+<h3 align="center">Software Engineer | Real-Time and Safety-Critical Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fedisalhi&label=Profile%20views&color=0e75b6&style=flat" alt="fedisalhi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedisalhi" alt="fedisalhi" /></a> </p>
-
-- 📝 I regularly write articles on [fedisalhi.com](https://fedisalhi.com)
-
-- 💬 Ask me about **C/C++, Python, Embedded Programming, Linux**
-
-- 📫 How to reach me **fadi.salhi@outlook.fr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fedisalhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fedisalhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@fadi_salhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fadi_salhi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fedisalhi&label=Profile%20views&color=0e75b6&style=flat-square" alt="fedisalhi" />
+  <a href="https://linkedin.com/in/fedisalhi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="fedisalhi" /></a>
+  <a href="mailto:fadi.salhi@outlook.fr"><img src="https://img.shields.io/badge/Email-fadi.salhi@outlook.fr-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedisalhi&theme=radical&column=7" alt="fedisalhi trophies" /></a> 
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedisalhi&show_icons=true&locale=en&layout=compact" alt="fedisalhi" /></p>
+---
 
+### 🚀 About Me
+
+I am a **Software Engineer** specializing in **C/C++ development for real-time, mission and safety-critical systems** across highly regulated industries, including Aerospace & Defense (MIL-STD), Industrial Printing, and Medical Robotics (IEC 62304). 
+
+* 💻 **This GitHub:** Houses my personal coding work and experiments built during my free time outside office hours.
+* 🛠️ **Core Focus:** Embedded C/C++ development in RTOS environments.
+* 🗣️ **Languages:** Fluent in English, Arabic, French, and Turkish.
+
+---
+
+### 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>⚡ Core Software Expertise</h4>
+      <ul>
+        <li><strong>Languages:</strong> C, C++ (Primary), Python (Data analysis and validation)</li>
+        <li><strong>Real-Time Systems:</strong> Linux RT, RTOS, Scheduling Theory, Resource Constraints</li>
+        <li><strong>Embedded Linux:</strong> Yocto Project (Building & Customizing)</li>
+        <li><strong>Testing Pyramid:</strong> GoogleTest (C++), Pytest (Python) — Unit, Integration, & E2E</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🔌 Hardware Platforms</h4>
+      <ul>
+        <li><strong>Microcontrollers/SoCs:</strong> TMS570LS3137, STM32F407, MSP430, TI AM64</li>
+        <li><strong>Edge AI/Compute:</strong> NVIDIA Jetson (TX2, Nano, Orin)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Hobby Zone
+
+Outside of my professional focus on C++ and real-time systems, I enjoy exploring frontend and mobile architectures:
+* 📱 Building personal side projects using **Flutter**.
+* 🧪 Experimenting with new tools and frameworks to broaden my development toolkit.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedisalhi&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="Fedi's Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/fedisalhi](https://linkedin.com/in/fedisalhi)
+* **Email:** [fadi.salhi@outlook.fr](mailto:fadi.salhi@outlook.fr)
