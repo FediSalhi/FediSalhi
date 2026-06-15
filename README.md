@@ -8,7 +8,8 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedisalhi&theme=radical&column=7" alt="fedisalhi trophies" /></a> 
+  <!-- Fixed with stable community trophy fork -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=fedisalhi&theme=radical&column=7" alt="fedisalhi trophies" /></a> 
 </p>
 
 ---
@@ -57,9 +58,8 @@ Outside of my professional focus on C++ and real-time systems, I enjoy exploring
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedisalhi&show_icons=true&locale=en&layout=compact&theme=visual_studio_code" alt="Fedi's Top Languages" />
+  <img src="https://img.shields.io/badge/Languages-C%2C_C%2B%2B%2C_Python-blue?style=for-the-badge&logo=cplusplus" alt="Top Languages" />
 </p>
 
 ---
