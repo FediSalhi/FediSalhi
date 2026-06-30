@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fedi Salhi 👋</h1>
-<h3 align="center">Software Engineer | Real-Time and Safety-Critical Systems</h3>
+<h3 align="center">Software Engineer | Real-Time and Safety-Critical Systems | Robotics </h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fedisalhi&label=Profile%20views&color=0e75b6&style=flat-square" alt="fedisalhi" />
@@ -7,10 +7,6 @@
   <a href="mailto:fadi.salhi@outlook.fr"><img src="https://img.shields.io/badge/Email-fadi.salhi@outlook.fr-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="email" /></a>
 </p>
 
-<p align="center"> 
-  <!-- Fixed with stable community trophy fork -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=fedisalhi&theme=radical&column=7" alt="fedisalhi trophies" /></a> 
-</p>
 
 ---
 
