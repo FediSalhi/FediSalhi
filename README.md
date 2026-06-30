@@ -16,10 +16,10 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** specializing in **C/C++ development for real-time, mission and safety-critical systems** across highly regulated industries, including Aerospace & Defense (MIL-STD), Industrial Printing, and Medical Robotics (IEC 62304). 
+I am a **Software Engineer** specializing in **C/C++ development for real-time, mission and safety-critical systems** across highly regulated industries, mainly for robotics. This GitHub doesn't include code for the companies I work with; it's just a space dedicated entirely to my hobby projects. Here, you'll find experiments, tools, and side quests that often take me completely outside my main professional focus just for the fun of learning
 
 * 💻 **This GitHub:** Houses my personal coding work and experiments built during my free time outside office hours.
-* 🛠️ **Core Focus:** Embedded C/C++ development in RTOS environments.
+* 🛠️ **Software Stack:** C/C++, Python, Flutter.
 * 🗣️ **Languages:** Fluent in English, Arabic, French, and Turkish.
 
 ---
